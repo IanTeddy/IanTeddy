@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student from Japan </h3>
 <br>
 Welcome to my Github 👋!
-I am currently studying programming at Georgian College in Toronto. I love learning algorithms and have a deep passion for software development.
+I am studying computer programming in Toronto. I love learning algorithms and am passionate about building innovative software applications.
 
 ## 🛠 Languages and Tools
 <p align="left">

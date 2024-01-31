@@ -1,14 +1,49 @@
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-Computer Science Student from Japan 🇯🇵 currently based in Toronto.
+Computer Science Student from Japan 🇯🇵 currently based in Toronto.   
 I'm passionate about creating enjoyable digital experiences for users.
 
-# 🗃 Languages and Tools
-![image](https://github.com/IanTeddy/IanTeddy/assets/136382277/5b750aa8-9fc0-4ac2-847c-ad34dd0edbba)
-![image](https://github.com/IanTeddy/IanTeddy/assets/136382277/d65935d5-4452-4ad7-8c65-c9c2c59867a8)
-![image](https://github.com/IanTeddy/IanTeddy/assets/136382277/299ef6ea-b843-4b67-8f46-e4c3081cf098)
+## 🔧 Languages and Tools
+**Programming & Database**
+<p align="left">
+<!-- Java -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &ensp;
+<!--php -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &ensp;
+<!-- python-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&ensp;
+<!--C++ -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&ensp;
+<!--C# -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&ensp;
+<!-- mysql-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
 
+**Frontend Development**
+<p align="left">
+<!-- JS-->
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> &ensp;
+<!-- boostrap-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> &ensp;
+<!-- CSS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &ensp;
+<!-- html-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &ensp;
+</p>
 
+**Others**
+<p align="left">
+<!--Git-->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &ensp;
+<!--Azure-->
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> &ensp;
+<!--Arduino -->
+<a href="https://www.arduino.cc/" target="_blank" rel="no-referrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a> 
+</p>
+
+### 📬 Contact 
+Please feel free to connect with me on [LinkedIn](www.linkedin.com/in/mei-hirata).
 
 
 

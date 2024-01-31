@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mei 🙋‍♀️  </h1>
 <h3 align="center">Computer Science Student from Japan </h3>
 <br>
-Welcome to my Github 👋!
+Welcome to my Github! 👋 
 I am studying computer programming in Toronto. I love learning algorithms and am passionate about building innovative software applications.
 
 ## 🛠 Languages and Tools

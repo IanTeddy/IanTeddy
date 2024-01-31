@@ -1,10 +1,10 @@
-## 👩‍💻 About Me
+<h1 align="center">Hi there, I'm Mei 🙋‍♀️  </h1>
+<h3 align="center">Computer Science Student from Japan </h3>
+<br>
+Welcome to my Github 👋!
+I am currently studying programming at Georgian College in Toronto. I love learning algorithms and have a deep passion for software development.
 
-Computer Science Student from Japan 🇯🇵 currently based in Toronto.   
-I'm passionate about creating enjoyable digital experiences for users.
-
-## 🔧 Languages and Tools
-**Programming & Database**
+## 🛠 Languages and Tools
 <p align="left">
 <!-- Java -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &ensp;
@@ -17,11 +17,7 @@ I'm passionate about creating enjoyable digital experiences for users.
 <!--C# -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&ensp;
 <!-- mysql-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-
-**Frontend Development**
-<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&ensp;
 <!-- JS-->
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> &ensp;
 <!-- boostrap-->
@@ -42,7 +38,7 @@ I'm passionate about creating enjoyable digital experiences for users.
 <a href="https://www.arduino.cc/" target="_blank" rel="no-referrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a> 
 </p>
 
-### 📬 Contact 
+## 📬 Contact 
 Please feel free to connect with me on [LinkedIn](www.linkedin.com/in/mei-hirata).
 
 

@@ -4,6 +4,14 @@
 
 Welcome to my Github! 👋 I am a Computer Science student from Japan and currently studying in Toronto. I love learning algorithms and am passionate about building innovative software applications.
 
+## 🗽 About Me 
+*  I’m currently working on JavaFx projects.
+*  I’m currently learning React.js and ASP.NET.
+*  💬 Ask me if you need a Japanese tutor 🇯🇵! I'm teaching Japanese as a part-time.
+*  My Motto is *"If You Can Dream It, You Can Do It."* -Walt Disney
+ 
+  
+
 ## 🛠 Languages and Tools
 <p align="left">
 <!-- Java -->
@@ -26,10 +34,6 @@ Welcome to my Github! 👋 I am a Computer Science student from Japan and curren
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> &ensp;
 <!-- html-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> &ensp;
-</p>
-
-**Others**
-<p align="left">
 <!--Git-->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> &ensp;
 <!--Azure-->

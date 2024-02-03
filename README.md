@@ -5,8 +5,8 @@
 Welcome to my Github! 👋 I am a Computer Science student from Japan and currently studying in Toronto. I love learning algorithms and am passionate about building innovative software applications.
 
 ## 🗽 About Me 
-*  I’m currently working on JavaFx projects.
-*  I’m currently learning React.js and ASP.NET.
+*  I’m currently working on my custom TODO app with **React**
+*  I’m currently learning **ASP.NET** and **JavaFx**
 *  💬 Ask me if you need a Japanese tutor 🇯🇵! I'm teaching Japanese as a part-time.
 *  My Motto is *"If You Can Dream It, You Can Do It."* -Walt Disney
  

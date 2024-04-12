@@ -6,7 +6,7 @@ Welcome to my Github! 👋 I am a Computer Science student from Japan and curren
 
 ## 🗽 About Me 
 *  I’m currently working on my custom TODO app with **React**
-*  I’m currently learning **ASP.NET** and **JavaFx**
+*  I’m focusing on learning **JavaFx** and **Javascript**
 *  💬 Ask me if you need a Japanese tutor 🇯🇵! I'm teaching Japanese as a part-time.
 *  My Motto is *"If You Can Dream It, You Can Do It."* -Walt Disney
  

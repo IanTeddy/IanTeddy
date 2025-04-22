@@ -2,7 +2,7 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=35&pause=1000&color=863FFF&center=true&random=false&width=435&lines=Hi+there%2C+I'm+Mei+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" /></a></div>
 <br>
 
-Welcome to my Github! 👋 I am a Computer Science student from Japan and currently studying in Toronto. I love learning algorithms and am passionate about building innovative software applications.
+Welcome to my Github! 👋 I studied Computer Science in Toronto and now I am currently working at an AI company. I love learning new things and am passionate about building innovative software applications.
 
 ## 🗽 About Me 
 *  I’m currently working on my custom TODO app with **React**
